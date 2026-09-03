@@ -1,0 +1,7 @@
+*.pth
+*.pt
+data/
+images/
+masks/
+__pycache__/
+.ipynb_checkpoints/
